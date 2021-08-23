@@ -31,4 +31,16 @@ en-de, zh-en, en-ru
 2. Store the corresponding references in **ref/** folder
 3. Make sure to download the respective language fasttext embedings in text format and store them in **fasttext/** folder.
 
+## Citation:
+Please feel free to ask queries/doubts if any. 
+contact : ananya.mukherjee@research.iiit.ac.in
 
+```
+@INPROCEEDINGS{MEE2020,
+  author={Mukherjee, Ananya and Ala, Hema and Shrivastava, Manish and Sharma, Dipti Misra},
+  booktitle={2020 IEEE 7th International Conference on Data Science and Advanced Analytics (DSAA)},
+  title={MEE : An Automatic Metric for Evaluation Using Embeddings for Machine Translation},
+  year={2020},
+  pages={292-299},
+  doi={10.1109/DSAA49011.2020.00042}}
+```
