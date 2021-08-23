@@ -26,10 +26,16 @@ python3 WMT_MEE_Metric.py en-de
 Evaluation is done for the following language pairs :
 en-de, zh-en, en-ru
 
+## Results
+Results will be stored in MEE.seg.score file in the below format.
+<METRIC NAME>   <LANG-PAIR>   <TESTSET>   <REFERENCE>   <SYSTEM-ID>      <SEGMENT NUMBER>   SEGMENT SCORE>  
+
+
 ## Running for your own dataset
 1. Add the system outputs in a text file and store it in **hyp/** folder.
 2. Store the corresponding references in **ref/** folder
 3. Make sure to download the respective language fasttext embedings in text format and store them in **fasttext/** folder.
+
 
 ## Citation:
 Please feel free to ask queries/doubts if any. 
