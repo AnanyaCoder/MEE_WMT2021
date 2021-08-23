@@ -2,7 +2,7 @@
 """
 WMT 2021 MEtric Shared Task
 
-Evaluating the MT outputs at Segment Level.
+Evaluating the MT outputs at Segment Level using MEE metric.
 
 @author: Ananya Mukherjee
 """
