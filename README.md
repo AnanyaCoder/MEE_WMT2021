@@ -18,7 +18,7 @@ MEE runs in Python 3. Download the fasttext word vectors from (https://fasttext.
 
 ```
 pip install --upgrade pip  # ensures that pip is current
-git clone https://github.com/google-research/MEE_WMT2021.git
+git clone https://github.com/AnanyaCoder/MEE_WMT2021.git
 cd MEE_WMT2021
 python3 WMT_MEE_Metric.py en-de
 ```
