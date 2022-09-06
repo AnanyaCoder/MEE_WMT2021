@@ -9,7 +9,7 @@ MEE computes evaluation score using three modules namely exact match, root match
 It is comparable to [`sentence-BLEU`](https://en.wikipedia.org/wiki/BLEU) and [`BERTscore`](https://arxiv.org/abs/1904.09675).
 
 
-A comprehensive overview of BLEURT can be found in our IEEE DSAA 2020 paper [MEE : An Automatic Metric for Evaluation Using Embeddings for Machine Translation](https://web2py.iiit.ac.in/research_centres/publications/view_publication/inproceedings/1988).
+A comprehensive overview of MEE can be found in our IEEE DSAA 2020 paper [MEE : An Automatic Metric for Evaluation Using Embeddings for Machine Translation](https://web2py.iiit.ac.in/research_centres/publications/view_publication/inproceedings/1988).
 
 
 ## Command to run:
